@@ -1,2 +1,2 @@
 # WeatherApp-Widget
-Make a simple weather app to test widgets.
+Make a simple weather app to test widget.
